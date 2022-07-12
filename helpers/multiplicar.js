@@ -9,8 +9,6 @@ const crearArchivo = async (base = 5) => {
         console.log('====    Tabla del:', base, '  ======')
         console.log('=============================')
 
-
-
         let salida = '';
 
         for (let i = 1; i <= 10; i++) {
