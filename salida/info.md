@@ -1,3 +1,3 @@
 # information
 
-### this folder contains the final product of the application.
+ this folder contains the final product of the application.
