@@ -18,7 +18,7 @@ createFile(argv.b, argv.l, argv.u)
 
 
 
-// ejemplo educativo para entender de donde provienen lodos argumentos
+// ejemplo educativo para entender de donde provienen los argumentos
 
 // console.log(process.argv);
 // console.log(argv);
